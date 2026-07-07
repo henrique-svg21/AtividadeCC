@@ -45,16 +45,16 @@ public class Main {
 
                             switch (option) {
                                 case 1:
-                                    System.out.println("Result of sum: " + calc.sum()); // + sum()
+                                    System.out.println("Result is sum" + calc.sum()); // + sum()
                                     break;
                                 case 2:
-                                    System.out.println("Result of sub: " + calc.subtract()); // + subtract()
+                                    System.out.println("Result is sub" + calc.subtract()); // + subtract()
                                     break;
                                 case 3:
-                                    System.out.println("Result of mult: " + calc.multiply()); // + multiply()
+                                    System.out.println("Result is mult" + calc.multiply()); // + multiply()
                                     break;
                                 case 4:
-                                    System.out.println("Result of div: " + calc.div()); // + divide()
+                                    System.out.println("Result is div" + calc.div()); // + divide()
                                     break;
                             }
                             System.out.println();
