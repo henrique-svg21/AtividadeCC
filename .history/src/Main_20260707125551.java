@@ -79,13 +79,13 @@ public class Main {
                         if (read >=1 && read <= 3) {
                             switch(read) {
                                 case 1:
-                                    System.out.println("Inversion in German is when you start the sentence with inverting connectives, requiring the verb and subject to be swapped in place, in order to keep the verb as the second idea of the clause");
+                                    System.out.println("Inversion in German is when you start the sentence with ");
                                     break;
                                 case 2:
-                                    System.out.println("Subordinating Conjunctions, also called Boot Words, in German are words that add information to a sentence. While doing that, it kicks the conjugated verb to the end of the clause. If there are two verbs, the first verb (Modal or Helping Verb) will be the one conjugated and kicked to the absolute end)");
+                                    System.out.println("Wow concep22222");
                                     break;            
                                 case 3:
-                                    System.out.println("Coordinating Conjunctions, also called No-Change Words in German, are words used to add information to a sentence, or bring a new point of view. They have this name because they do not affect the standard German word order (Subject + Verb + Rest");
+                                    System.out.println("Wow concep33333");
                                     break;
                             }
                             System.out.println();
